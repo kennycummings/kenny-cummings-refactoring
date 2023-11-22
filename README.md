@@ -1,2 +1,5 @@
 # Code Refactor Starter Code
 # kenny-cummings-refactoring
+## Module 1 symantic corrections
+Let's make everything SEO optimal! The purpose of this is to find the weak code and make it stronger for SEO purposes. It's called refactoring! I'm motivated to do this so I can learn the process of coding and learn how to properly debug code. I want to become a front end web developer. I learned that you need to have determination and perseverance to overcome the obstacles of coding! The prework embraced having that mindset, knowing you will stumble.
+One of the first things I noticed was a broken link: Search Engine Optimization. I tried to find the root of the problem but couldn't. The link looked okay to me, so I'm not sure why it isn't scrolling down the home page to Search Engine Optimization. Maybe it's functioning fine as is. Then, I noticed the lack of alt tags. I added the alt tags to the images for more optimal SEO.
