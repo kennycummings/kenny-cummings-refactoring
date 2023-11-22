@@ -7,9 +7,9 @@ Let's make everything SEO optimal! The purpose of this is to find the weak code 
 The HTML required a lot of refactoring. The header was missing a title. The heading was misspelled within the body. I refactored so all links scroll, the Search Engine Optimization link was broken. I updated the HTML within the Benefits class. I replaced div with article. I added alt attributes to images. I altered heading text and added a h3. I provided structure for each benefit section with an article element. Lastly for the HTML, I refactored the footer by adding descriptive class names.
 <br>
 <br>
-<img src="./Develop//assets/images/homepage-1.png" alt="First screenshot of the homepage">
+<img src="./assets/images/homepage-1.png" alt="First screenshot of the homepage">
 
 <br>
 <br>
 
-<img src="./Develop/assets/images/homepage-2.png" alt="Second screenshot of the homepage">
+<img src="./assets/images/homepage-2.png" alt="Second screenshot of the homepage">
