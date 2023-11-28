@@ -9,18 +9,19 @@
 </head>
 
 <body>
-    <div class="header">
+    <header class="header">
         <!-- Fixed misspelled heading -->
-        <h1>Horiseon<span class="seo">seo</span>n</h1>
-
+        <h1>Hori<span class="seo">seo</span>n</h1>
+        <!-- Refactor with <nav> -->
         <div>
             <ul>
-                <li><a href="#search-engine-optimization">Search Engine Optimization</a></li>            
-                <li><a href="#online-reputation-management">Online Reputation Management</a></li>            
-                <li><a href="#social-media-marketing">Social Media Marketing</a></li>        
+               
+                <li> <a href="#search-engine-optimization">Search Engine Optimization</a></li>  
+                <li> <a href="#online-reputation-management">Online Reputation Management</a></li>  
+                <li> <a href="#social-media-marketing">Social Media Marketing</a></li>                
             </ul>
         </div>
-    </div>
+    </header>
 
     <!-- Refactor so all links scroll. Search Engine Optimization link is broken. Created a universal class in CSS ("search-engine-optimization") and applied it -->
 
@@ -84,7 +85,7 @@
         </article>
     </div>    
 
-    <!-- Refactor by adding descriptive class names -->
+    <!-- Refactor by adding descriptive class names; perhaps get rid of the div? -->
 
     <footer class="footer">
         <div class="footer-content">
