@@ -10,9 +10,10 @@ The HTML required a lot of refactoring. The header was missing a title. The head
 For the CSS, many of the redundant classes with the same formatting could be grouped together as one class. I had to updated the HTML accordingly.
 <br>
 <br>
+Web Application URL: https://kennycummings.github.io/kenny-cummings-refactoring/
+<br>
+<br>
 <img src="./assets/images/homepage-1.png" alt="First screenshot of the homepage">
-
 <br>
 <br>
-
 <img src="./assets/images/homepage-2.png" alt="Second screenshot of the homepage">
